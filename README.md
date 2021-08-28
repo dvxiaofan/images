@@ -1,1 +1,3 @@
 # images
+
+image bed
